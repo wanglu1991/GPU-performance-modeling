@@ -1,0 +1,21 @@
+30240
+220.0
+6048
+len 2 2
+dist 0.0
+6048
+[1.0]
+0
+NoC info
+naive_ipc
+4.0
+Multithreading_IPC
+4.0
+With MSHR modeling
+0
+0
+1.6231884058
+With Delay modeling
+1587.69116279
+0.640563412054
+241920
